@@ -11,7 +11,13 @@
   <img src="https://img.shields.io/github/followers/omarshehata1?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
-### Languages and Tools 🛠
+<p align="center">
+  <a href="mailto:3marshehata@gmail.com"title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
+  <a href="https://www.facebook.com/profile.php?id=100012286908852&mibextid=ZbWKwL" title="Facebook"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/omar-she7ata" title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a></p>
+        
+
+## 🛠 Languages and Tools 
 
 <div align="center">
   <a href="https://github.com/omarshehata1">
