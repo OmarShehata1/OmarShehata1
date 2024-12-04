@@ -30,21 +30,22 @@
 <br/>
 
 <h2 align="center"> Github Statistics 📈 </h2>
-<!--
+
 <div align="center">
+  <!--
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=omarshehata1&theme=github_dark&border=1E90FF&hide_border=false" alt="GitHub Streak" />
   </a> -->
 
   <a href="https://github.com/omarshehata1">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omarshehata1&theme=github_dark&hide_border=false&border_color=1E90FF&show_icons=true&locale=en&layout=compact" alt="omarshehata1" />
+    <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=omarshehata1&theme=github_dark&hide_border=false&border_color=1E90FF&show_icons=true&locale=en&layout=compact" alt="omarshehata1" />
   </a>
 
   <a href="https://github.com/omarshehata1">
     <img width="400px" src="https://github-readme-stats.vercel.app/api?username=omarshehata1&theme=github_dark&hide_border=false&border_color=1E90FF&show_icons=true&locale=en" alt="omarshehata1" />
   </a>
-
+<!--
   <a href="https://github.com/omarshehata1/">
     <img width="400px" src="https://github-readme-stats.vercel.app/api/wakatime?username=omarshehata&langs_count=8&theme=github_dark&hide_border=false&border_color=1E90FF&show_icons=true&locale=en&layout=compact" />  
-  </a>
+  </a> -->
 </div>
