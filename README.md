@@ -42,7 +42,7 @@
   </a>
 
   <a href="https://github.com/omarshehata1">
-    <img width="400px" src="https://github-readme-stats.vercel.app/api?username=omarshehata1&theme=github_dark&hide_border=false&border_color=1E90FF&show_icons=true&locale=en" alt="omarshehata1" />
+    <img width="400px" height: 186px src="https://github-readme-stats.vercel.app/api?username=omarshehata1&theme=github_dark&hide_border=false&border_color=1E90FF&show_icons=true&locale=en" alt="omarshehata1" />
   </a>
 <!--
   <a href="https://github.com/omarshehata1/">
