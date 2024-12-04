@@ -28,7 +28,7 @@
 ---
 
 <br/>
-<!--
+
 <h2 align="center"> Github Statistics 📈 </h2>
 
 <div align="center">
@@ -45,7 +45,6 @@
   </a>
 
   <a href="https://github.com/omarshehata1/">
-    <img width="400px" src="https://github-readme-stats.vercel.app/api/wakatime?username=omarshehata&langs_count=8&theme=github_dark&hide_border=false&border_color=1E90FF&show_icons=true&locale=en&layout=compact" /> -->
-    
+    <img width="400px" src="https://github-readme-stats.vercel.app/api/wakatime?username=omarshehata&langs_count=8&theme=github_dark&hide_border=false&border_color=1E90FF&show_icons=true&locale=en&layout=compact" />  
   </a>
 </div>
