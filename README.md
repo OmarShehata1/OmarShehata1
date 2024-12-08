@@ -21,7 +21,7 @@
 
 <div align="center">
   <a href="https://github.com/omarshehata1">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,python,c,cpp,git" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,vue,python,c,cpp,git,github" alt="My Skills" />
   </a>
 </div>
 
