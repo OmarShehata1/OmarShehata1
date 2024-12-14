@@ -1,5 +1,5 @@
 <!-- cv link -->
-<a href="https://drive.google.com/file/d/1ry13DcDfmPngpi0mcJoe1Rbu5KiFyGt2/view?usp=drive_link" target="_blank"><img align="right" src="https://raw.githubusercontent.com/AhmedSalman1/AhmedSalman1/refs/heads/main/img/cv.png" alt="My CV" width="70" ></a>
+<a href="https://drive.google.com/file/d/1MP8djasOmbo2LMPpYEscJQscHiTuF1LU/view?usp=drive_link" target="_blank"><img align="right" src="https://raw.githubusercontent.com/AhmedSalman1/AhmedSalman1/refs/heads/main/img/cv.png" alt="My CV" width="70" ></a>
 
 
 <h1 align="center">Hi 👋, I'm Omar Shehata 👨‍💻</h1>
