@@ -93,12 +93,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/omarshehata1/omarshehata1/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="left">Contact 📞</h2>
 
 ###
