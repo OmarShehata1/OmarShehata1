@@ -1,51 +1,125 @@
-<!-- cv link -->
-<a href="https://drive.google.com/file/d/1MP8djasOmbo2LMPpYEscJQscHiTuF1LU/view?usp=drive_link" target="_blank"><img align="right" src="https://raw.githubusercontent.com/AhmedSalman1/AhmedSalman1/refs/heads/main/img/cv.png" alt="My CV" width="70" ></a>
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
+###
 
-<h1 align="center">Hi 👋, I'm Omar Shehata 👨‍💻</h1>
-<h3 align="center">Interested in Web Development as Front-End</h3>
+<h1 align="center">Hi there, I'm Omar 👋</h1>
 
-<br/>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=omarshehata1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/omarshehata1?label=Followers&style=social" alt="GitHub Followers" />
-</p>
+###
 
-<p align="center">
-  <a href="mailto:3marshehata@gmail.com"title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
-  <a href="https://www.facebook.com/profile.php?id=100012286908852&mibextid=ZbWKwL" title="Facebook"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/omar-she7ata" title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a></p>
-        
-
-## 🛠 Languages and Tools 
+<br clear="both">
 
 <div align="center">
-  <a href="https://github.com/omarshehata1">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,tailwind,react,python,c,cpp,mysql,git,github" alt="My Skills" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=omarshehata1.omarshehata1&left_color=darkmagenta&right_color=coral&left_text=views"  />
+</div>
+
+###
+
+<h2 align="left">👩‍💻  About Me</h2>
+
+###
+
+<h4 align="left">I am a 🎓 student of Computer and Control Systems Engineering with a background in 🔌 Embedded Systems. Currently, I am focused on 🌐 Web Development and building the necessary skills to develop web applications. I am expanding my programming knowledge by 💻 working on personal projects and 🚀 learning new technologies. I aspire to use these skills to build a ✨ successful career in web development.</h4>
+
+###
+
+<h2 align="left">Education 🎓</h2>
+
+###
+
+<p align="left">Bachelor of Engineering, Mansoura University     2020 - 2025<br><br>Department: Computer and Control Systems</p>
+
+###
+
+<h2 align="left">📌 Training & Certifications</h2>
+
+###
+
+<h5 align="left">🔹 BI Development Intern | ITI Mansoura (Jul – Sep 2024)<br><br>🔹 Embedded Systems Diploma (Oct 2023 – May 2024)<br><br>🔹 IoT Intern | National Communications Institute ( NTI ) (Jun – Jul 2023)</h5>
+
+###
+
+<h2 align="left">🛠 Language and tools</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=omarshehata1&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omarshehata1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omarshehata1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omarshehata1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omarshehata1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/omarshehata1/omarshehata1/output/snake.svg" alt="Snake animation" />
+
+###
+
+<h2 align="left">Contact 📞</h2>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/omar-she7ata/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="3marshehata@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="30" alt="gmail logo"  />
+  </a>
+  <a href="https://www.facebook.com/share/15qF6yuh83/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=plastic" height="30" alt="facebook logo"  />
   </a>
 </div>
 
----
-
-<br/>
-
-<h2 align="center"> Github Statistics 📈 </h2>
-
-<div align="center">
-  <!--
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=omarshehata1&theme=github_dark&border=1E90FF&hide_border=false" alt="GitHub Streak" />
-  </a> -->
-
-  <a href="https://github.com/omarshehata1">
-    <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=omarshehata1&theme=github_dark&hide_border=false&border_color=1E90FF&show_icons=true&locale=en&layout=compact" alt="omarshehata1" />
-  </a>
-
-  <a href="https://github.com/omarshehata1">
-    <img width="400px" height="186px" src="https://github-readme-stats.vercel.app/api?username=omarshehata1&theme=github_dark&hide_border=false&border_color=1E90FF&show_icons=true&locale=en" alt="omarshehata1" />
-  </a>
-<!--
-  <a href="https://github.com/omarshehata1/">
-    <img width="400px" src="https://github-readme-stats.vercel.app/api/wakatime?username=omarshehata&langs_count=8&theme=github_dark&hide_border=false&border_color=1E90FF&show_icons=true&locale=en&layout=compact" />  
-  </a> -->
-</div>
+###
