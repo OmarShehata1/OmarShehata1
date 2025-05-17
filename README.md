@@ -12,7 +12,7 @@
 
 ###
 
-<h4 align="left">I am a 🎓 student of Computer and Control Systems Engineering with a background in 🔌 Embedded Systems. Currently, <br>I am focused on 🌐 Web Development and building the necessary skills to develop web applications. I am expanding my programming knowledge by 💻 working on personal projects and 🚀 learning new technologies. I aspire to use these skills to build a ✨ successful career in web development.</h4>
+<h4 align="left">I am a Computer Engineering graduate with a passion for web development. I am dedicated to honing my skills in building innovative web applications and expanding my programming expertise through personal projects and learning cutting-edge technologies. Connect with me on LinkedIn to explore my professional journey. I aspire to leverage these skills to create impactful solutions and build a successful career in web development. </h4>
 
 ###
 
