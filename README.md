@@ -12,7 +12,23 @@
 
 ###
 
-<h4 align="left">I am a Computer Engineering graduate with a passion for web development. I am dedicated to honing my skills in building innovative web applications and expanding my programming expertise through personal projects and learning cutting-edge technologies. Connect with me on LinkedIn to explore my professional journey. I aspire to leverage these skills to create impactful solutions and build a successful career in web development. </h4>
+<h4 align="left">I’m a Computer Engineering graduate — driven by curiosity and code.
+
+Passionate about crafting web experiences that look beautiful and work seamlessly.
+
+I thrive on solving real problems through creative development, and every project I take teaches me something new.
+
+From responsive front-end interfaces to efficient back-end systems, I love experimenting with modern frameworks and tools.
+
+Constantly learning. Constantly improving.
+
+My focus is simple — create, build, and innovate.
+
+I believe technology should make life simpler, and I’m dedicated to crafting solutions that do just that.
+
+Let’s connect if you value innovation, growth, and purposeful design.
+
+I’m open to opportunities in web development, collaboration, and learning from industry professionals. </h4>
 
 ###
 
